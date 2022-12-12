@@ -1,0 +1,60 @@
+An ammeter is connected in …………….. with the circuit element whose current we wish to measure
+Series
+Parallel
+Series or parallel
+None of the above
+a
+A galvanometer in series with a high resistance is called ……………
+An ammeter
+A voltmeter
+A wattmeter
+None of the above
+b
+An ammeter should have ………….. resistance
+Infinite
+Very large
+Very low
+None of the above
+c
+A voltmeter is connected in a ………….. with the circuit component across which potential difference is to be measured
+Parallel
+Series
+Series or parallel
+None of the above
+a
+A voltmeter should have ………. resistance
+Zero
+Very high
+Very low
+None of the above
+b
+The sensitivity of a multimeter is given in ……………..
+O
+Amperes
+kO/V
+none of the above
+c
+If the full-scale deflection current of a multimeter is 50 µA, its sensitivity is ……..
+10 kO/V
+100 kO/V
+50 kO/V
+20 kO/V
+d
+If a multimeter has a sensitivity of 1000 O per volt and reads 50 V full scale, its internal resistance is ………..
+20 kO
+50 kO
+10 kO
+None of the above
+b
+A VTVM has ………. input resistance than that of a multimeter
+More
+Less
+Same
+None of the above
+a
+The input resistance of a VTVM is about ………..
+1000 O
+10 kO
+20 kO
+10 MO
+d

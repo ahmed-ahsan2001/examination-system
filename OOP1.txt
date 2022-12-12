@@ -1,0 +1,60 @@
+1
+1
+1
+1
+1
+a
+Which of the following best defines a class?
+Parent of an object
+Instance of an object
+Blueprint of an object
+Scope of an object
+c
+Who invented OOP?
+Alan Kay
+Andrea Ferro
+Dennis Ritchie
+Adele Goldberg
+a
+What is the additional feature in classes that was not in structures?
+Data members
+Member functions
+Static data allowed
+Public access specifier
+b
+Which is not feature of OOP in general definitions?
+Code reusability
+Modularity
+Duplicate/Redundant data
+Efficient Code
+c
+Which Feature of OOP illustrated the code reusability?
+Polymorphism
+Abstraction
+Encapsulation
+Inheritance
+d
+Which language does not support all 4 types of inheritance?
+C++
+Java
+Kotlin
+Small Talk
+b
+Which language does not support all 4 types of inheritance?
+C++
+Java
+Kotlin
+Small Talk
+b
+How many classes can be defined in a single program?
+Only 1
+Only 100
+Only 999
+As many as you want
+d
+When OOP concept did first came into picture?
+1970’s
+1980’s
+1993
+1995
+a

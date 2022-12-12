@@ -1,0 +1,61 @@
+With the help of _____________________ Mr.Melin gave inverse laplace transformation formula.
+Theory of calculus
+Theory of probability
+Theory of statistics
+Theory of residues
+d
+What is the laplce tranform of the first derivative of a function y(t) with respect to t : y’(t)?
+sy(0) – Y(s)
+sY(s) – y(0)
+s2 Y(s)-sy(0)-y'(0)
+s2 Y(s)-sy'(0)-y(0)
+b
+Which of the following equations is an exact DE?
+(x2 + 1) dx – xy dy = 0
+x dy + (3x – 2y) dx = 0
+2xy dx + (2 + x2) dy = 0
+x2y dy – y dx = 0
+c
+Which of the following equations is a variable separable DE?
+(x + x2 y) dy = (2x + xy2) dx
+(x + y) dx – 2y dy = 0
+2y dx = (x2 + 1) dy
+y2 dx + (2x – 3y) dy = 0
+c
+The equation y2 = cx is general solution of:
+y’ = 2y / x
+y’ = 2x / y
+y’ = y / 2x
+y’ = x / 2y
+d
+Solve the differential equation: x(y – 1) dx + (x + 1) dy = 0. If y = 2 when x = 1.
+1.80
+1.48
+1.55
+1.63
+c
+The population of a country doubles in 50 years. How many years will it be five times as much? Assume that the rate of increase is proportional to the number inhabitants.
+100 years
+116 years
+120 years
+98 years
+b
+Radium decomposes at a rate proportional to the amount present. If the half of the original amount disappears after 1000 years, what is the percentage lost in 100 years?
+6.70%
+4.50%
+5.35%
+4.30%
+a
+According to Newton’s law of cooling, the rate at which a substance cools in air is directly proportional to the difference between the temperatures of the substance and that of air. If the temperature of the air is 30° and the substance cools from 100° to 70° in 15 minutes, how long will it take to cool 100° to 50°?
+33. 59 min
+43.60 min
+35.39 min
+45.30 min
+a
+An object falls from rest in a medium offering a resistance. The velocity of the object before the object reaches the ground is given by the differential equation dV/dt + V/10 = 32, ft/sec. What is the velocity of the object one second after if falls?
+40.54 ft/sec
+38.65 ft/sec
+30.45 ft/sec
+34.12 ft/sec
+c
+

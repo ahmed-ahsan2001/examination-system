@@ -1,0 +1,60 @@
+Which among the following is called first, automatically, whenever an object is created?
+Class
+Constructor
+New
+Trigger
+b
+Which among the following is not a necessary condition for constructors?
+Its name must be same as that of class
+It must not have any return type
+It must contain a definition body
+It can contains arguments
+c
+Which among the following is correct?
+class student{ public: int student(){} };
+class student{ public: void student (){} };
+class student{ public: student{}{} };
+class student{ public: student(){} };
+d
+In which access should a constructor be defined, so that object of the class can be created in any function?
+Public
+Protected
+Private
+Any access specifier will work
+a
+How many types of constructors are available for use in general (with respect to parameters)?
+2
+3
+4
+5
+a
+If a programmer defines a class and defines a default value parameterized constructor inside it.He has not defined any default constructor. And then he try to create the object without passing arguments, which among the following will be correct?
+It will not create the object (as parameterized constructor is used)
+It will create the object (as the default arguments are passed)
+It will not create the object (as the default constructor is not defined)
+It will create the object (as at least some constructor is defined)
+b
+If class C inherits class B. And B has inherited class A. Then while creating the object of class C, what will be the sequence of constructors getting called?
+Constructor of C then B, finally of A
+Constructor of A then C, finally of B
+Constructor of C then A, finally B
+Constructor of A then B, finally C
+d
+Which among the following is true for copy constructor?
+The argument object is passed by reference
+It can be defined with zero arguments
+Used when an object is passed by value to a function
+Used when a function returns an object
+b
+If the object is passed by value to a copy constructor?
+Only public members will be accessible to be copied
+That will work normally
+Compiler will give out of memory error
+Data stored in data members won’t be accessible
+c
+Which among the following helps to create a temporary instance?
+Implicit call to a default constructor
+Explicit call to a copy constructor
+Implicit call to a parameterized constructor
+Explicit call to a constructor
+d

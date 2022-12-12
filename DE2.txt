@@ -1,0 +1,60 @@
+Simplify the expression i1997 + i1999, where i is an imaginary.
+0
+–i
+1 + i
+1 – i
+a
+Simplify: i29 + i21 + i
+3i
+1 – i
+1 + i
+2i
+a
+The expression 3 + 4i is a complex number. Compute its absolute value.
+4
+5
+6
+7
+c
+The expression 3 + 4i is a complex number. Compute its absolute value.
+4
+5
+6
+7
+b
+Write the polar form of the vector 3 + j4.
+6 ? 53.1°
+10 ? 53.1°
+5 ? 53.1°
+8 ? 53.1°
+c
+Evaluate the value of v-10 x v-7
+i
+-v70
+ v70
+v17
+b
+Simplify (3 – i)2 – 7(3 – i) + 10
+–(3 + i)
+3 + i
+3 – i
+–(3 – i)
+d
+If A = 40ej120°, B = 20 ? -40°, C = 26.46 + j0, solve for A + B + C.
+27.7 ? 45°
+35.1 ? 45°
+30.8 ? 45°
+33.4 ? 45°
+c
+What is 4i cube times 2i square
+-8i
+8i
+-8
+-8i2
+b
+Find the value of (1 + i)5, where i is an imaginary number.
+1 – i
+-4(1 + i)
+1 + i
+4(1 + i)
+b

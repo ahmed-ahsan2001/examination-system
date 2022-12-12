@@ -1,0 +1,59 @@
+For display of signal pattern ………… voltage is applied to the horizontal plates of a CRO
+Sinusoidal
+Rectangular
+Sawtooth
+None of the above
+c
+Two multimeters A and B have sensitivities of 10 kO/V and 30 kO/V respectively. Then …………..
+Multimeter A is more sensitive
+Multimeter B is more sensitive
+Both are equally sensitive
+None of the above
+b
+A galvanometer of resistance G is shunted by a very small resistance S. The resistance of the resulting ammeter is ………………
+GS/(G+S)
+G+S
+G-S
+None of the above
+a
+A VTVM is never used to measure …………..
+Voltage
+Current
+Resistance
+None of the above
+A VTVM is never used to measure …………..
+Voltage
+Current
+Resistance
+None of the above
+b
+The sensitivity of a voltmeter which uses a 100 µA meter movement is ……………..
+1 kO/V
+10 kO/V
+5 kO/V
+Data insufficient
+b
+What is the total resistance of a voltmeter on the 10 V range when the meter movement is rated for 50 µA of full-scale current?
+10 kO
+20 kO
+200 kO
+None of the above
+c
+The materil used to coat inside the face of CRT is …………..
+Carbon
+Sulphur
+Silicon
+Phosphorous
+d
+When an ammeter is inserted in the circuit, the circuit current will ………..
+Increase
+Decrease
+Remain the same
+None of the above
+b
+The most accurate device for measuring voltage is ………….
+Voltmeter
+Multimeter
+CRO
+VTVM
+c
